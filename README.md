@@ -1,0 +1,2 @@
+# ShoppingCartApplication
+Alışveriş Sepeti Uygulaması
